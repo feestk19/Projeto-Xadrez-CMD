@@ -1,7 +1,7 @@
 C:\Users\felli\source\repos\Xadrez\Xadrez\bin\Debug\Xadrez.exe.config
 C:\Users\felli\source\repos\Xadrez\Xadrez\bin\Debug\Xadrez.exe
 C:\Users\felli\source\repos\Xadrez\Xadrez\bin\Debug\Xadrez.pdb
-C:\Users\felli\source\repos\Xadrez\Xadrez\obj\Debug\Xadrez.csprojAssemblyReference.cache
 C:\Users\felli\source\repos\Xadrez\Xadrez\obj\Debug\Xadrez.csproj.CoreCompileInputs.cache
 C:\Users\felli\source\repos\Xadrez\Xadrez\obj\Debug\Xadrez.exe
 C:\Users\felli\source\repos\Xadrez\Xadrez\obj\Debug\Xadrez.pdb
+C:\Users\felli\source\repos\Xadrez\Xadrez\obj\Debug\Xadrez.csproj.AssemblyReference.cache
