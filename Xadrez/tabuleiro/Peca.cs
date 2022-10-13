@@ -1,6 +1,6 @@
 ﻿namespace tabuleiro
 {
-    class Peca
+    abstract class Peca
     {
         public Posicao posicao { get; set; }
         public Cor cor { get; protected set; }
@@ -14,6 +14,8 @@
             this.cor = cor;
             this.qteMovimentos = 0;
         }
+
+        public abstract bool[,] movimentosPossiveis();//Abstract pois o método é genérico
 
         public void incrementarQteMovimentos()
         {
